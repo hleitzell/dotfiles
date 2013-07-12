@@ -1,1 +1,7 @@
+http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/
+https://github.com/mathiasbynens/dotfiles/blob/master/.osx
+http://ethanschoonover.com/solarized
+http://mths.be/osx
+http://dotfiles.github.io/
+
 git submodule foreach git pull origin master
